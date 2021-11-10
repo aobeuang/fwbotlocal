@@ -1,0 +1,11 @@
+{
+    "TIMEZONE": "Asia/Bangkok",
+    "REPAIR_IF_DURABILITY_LOWER": 50,
+    "RECOVER_IF_ENERGY_LOWER": 40,
+    "LOWEST_ENERGY": 275,
+    "MINIMUM_FEE": 5,
+    "MINIMUN_WITHDRAW": 300,
+    "FOOD": false,
+    "WOOD": true,
+    "GOLD": false
+}
